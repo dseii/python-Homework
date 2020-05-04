@@ -29,3 +29,5 @@
 1. Write a program to link two string (your first name and lasting name). This is also call a process of concatenation. 
 
 1. write a program to concatenate your bestfriend name and his/her age in full sentences using fstring.
+
+1. Write a program to print 5 line of string by breaking line. (You can write anything)
