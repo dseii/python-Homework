@@ -31,3 +31,9 @@
 1. write a program to concatenate your bestfriend name and his/her age in full sentences using fstring.
 
 1. Write a program to print 5 line of string by breaking line. (You can write anything)
+
+1. Write a program to display your information (short story in 50 words)
+
+1. write a program to display your story using variable name (silly_story) with using both escape character (backslash and line break)
+
+1. write a program to display your best teacher name and his subject name in your class using variable name of your choice. 
