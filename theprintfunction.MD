@@ -37,3 +37,9 @@
 1. write a program to display your story using variable name (silly_story) with using both escape character (backslash and line break)
 
 1. write a program to display your best teacher name and his subject name in your class using variable name of your choice. 
+
+1. Write a program to display your name and what do you do in thr free time using a seperator we used earlier in python.
+
+1. Wwrite a program to concadenate your friends name, address and  age and display the output.
+
+1. Write a program to display your name, address, hobbies and age. HINTS: Use age as a integer value. 
