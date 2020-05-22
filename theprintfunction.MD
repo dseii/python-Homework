@@ -16,11 +16,11 @@
 
 1. Write a program to display your name, school, class, roll number and section.
 
-1. Write a program to print string with integers. (no need to do)
+1. Write a program to print string with integers.
 
 1. Write a program to link two string.
 
-1. Write a program to print your full name 10 time. (no need to do)
+1. Write a program to print your full name 10 time. 
 
 1. Write a program to display a short story which you know using f-string, escape character. (20 words)
 
@@ -38,8 +38,8 @@
 
 1. write a program to display your best teacher name and his subject name in your class using variable name of your choice. 
 
-1. Write a program to display your name and what do you do in thr free time using a seperator we used earlier in python. (no need to do)
+1. Write a program to display your name and what do you do in thr free time using a seperator we used earlier in python. 
 
 1. Wwrite a program to concadenate your friends name, address and  age and display the output.
 
-1. Write a program to display your name, address, hobbies and age. HINTS: Use age as a integer value. (no need to do)
+1. Write a program to display your name, address, hobbies and age. HINTS: Use age as a integer value.
